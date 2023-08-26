@@ -1,0 +1,30 @@
+D:\simplilearn\phase2\day-10\using controller\using controller\bin\Debug\net6.0\appsettings.Development.json
+D:\simplilearn\phase2\day-10\using controller\using controller\bin\Debug\net6.0\appsettings.json
+D:\simplilearn\phase2\day-10\using controller\using controller\bin\Debug\net6.0\using controller.staticwebassets.runtime.json
+D:\simplilearn\phase2\day-10\using controller\using controller\bin\Debug\net6.0\using controller.exe
+D:\simplilearn\phase2\day-10\using controller\using controller\bin\Debug\net6.0\using controller.deps.json
+D:\simplilearn\phase2\day-10\using controller\using controller\bin\Debug\net6.0\using controller.runtimeconfig.json
+D:\simplilearn\phase2\day-10\using controller\using controller\bin\Debug\net6.0\using controller.dll
+D:\simplilearn\phase2\day-10\using controller\using controller\bin\Debug\net6.0\using controller.pdb
+D:\simplilearn\phase2\day-10\using controller\using controller\obj\Debug\net6.0\using controller.GeneratedMSBuildEditorConfig.editorconfig
+D:\simplilearn\phase2\day-10\using controller\using controller\obj\Debug\net6.0\using controller.AssemblyInfoInputs.cache
+D:\simplilearn\phase2\day-10\using controller\using controller\obj\Debug\net6.0\using controller.AssemblyInfo.cs
+D:\simplilearn\phase2\day-10\using controller\using controller\obj\Debug\net6.0\using controller.csproj.CoreCompileInputs.cache
+D:\simplilearn\phase2\day-10\using controller\using controller\obj\Debug\net6.0\using controller.MvcApplicationPartsAssemblyInfo.cache
+D:\simplilearn\phase2\day-10\using controller\using controller\obj\Debug\net6.0\using controller.RazorAssemblyInfo.cache
+D:\simplilearn\phase2\day-10\using controller\using controller\obj\Debug\net6.0\using controller.RazorAssemblyInfo.cs
+D:\simplilearn\phase2\day-10\using controller\using controller\obj\Debug\net6.0\staticwebassets\msbuild.using controller.Microsoft.AspNetCore.StaticWebAssets.props
+D:\simplilearn\phase2\day-10\using controller\using controller\obj\Debug\net6.0\staticwebassets\msbuild.build.using controller.props
+D:\simplilearn\phase2\day-10\using controller\using controller\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.using controller.props
+D:\simplilearn\phase2\day-10\using controller\using controller\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.using controller.props
+D:\simplilearn\phase2\day-10\using controller\using controller\obj\Debug\net6.0\staticwebassets.pack.json
+D:\simplilearn\phase2\day-10\using controller\using controller\obj\Debug\net6.0\staticwebassets.build.json
+D:\simplilearn\phase2\day-10\using controller\using controller\obj\Debug\net6.0\staticwebassets.development.json
+D:\simplilearn\phase2\day-10\using controller\using controller\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\simplilearn\phase2\day-10\using controller\using controller\obj\Debug\net6.0\scopedcss\bundle\using controller.styles.css
+D:\simplilearn\phase2\day-10\using controller\using controller\obj\Debug\net6.0\scopedcss\projectbundle\using controller.bundle.scp.css
+D:\simplilearn\phase2\day-10\using controller\using controller\obj\Debug\net6.0\using controller.dll
+D:\simplilearn\phase2\day-10\using controller\using controller\obj\Debug\net6.0\refint\using controller.dll
+D:\simplilearn\phase2\day-10\using controller\using controller\obj\Debug\net6.0\using controller.pdb
+D:\simplilearn\phase2\day-10\using controller\using controller\obj\Debug\net6.0\using controller.genruntimeconfig.cache
+D:\simplilearn\phase2\day-10\using controller\using controller\obj\Debug\net6.0\ref\using controller.dll
